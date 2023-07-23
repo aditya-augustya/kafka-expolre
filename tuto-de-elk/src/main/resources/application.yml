@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: ELK-STACK-EXAMPLE
+
+server:
+  port: 9090
+
+logging:
+  file: D:/log/elk/elkdata-stack.log

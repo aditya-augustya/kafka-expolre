@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tuto-de-kafka-real/kafka-consumer-database/kafka-consumer-database.iml" filepath="$PROJECT_DIR$/tuto-de-kafka-real/kafka-consumer-database/kafka-consumer-database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tuto-de-kafka-real/kafka-producer-wikimedia/kafka-producer-wikimedia.iml" filepath="$PROJECT_DIR$/tuto-de-kafka-real/kafka-producer-wikimedia/kafka-producer-wikimedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-receiver/kafka-receiver.iml" filepath="$PROJECT_DIR$/kafka-receiver/kafka-receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kafka-repo.iml" filepath="$PROJECT_DIR$/.idea/kafka-repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-sender/kafka-sender.iml" filepath="$PROJECT_DIR$/kafka-sender/kafka-sender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-service/product-service.iml" filepath="$PROJECT_DIR$/product-service/product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tourntravell/tourntravell.iml" filepath="$PROJECT_DIR$/tourntravell/tourntravell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tuto-de-elk/tuto-de-elk.iml" filepath="$PROJECT_DIR$/tuto-de-elk/tuto-de-elk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tuto-de-kafka-real/tuto-de-kafka-real.iml" filepath="$PROJECT_DIR$/tuto-de-kafka-real/tuto-de-kafka-real.iml" />
+    </modules>
+  </component>
+</project>

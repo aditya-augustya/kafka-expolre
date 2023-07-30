@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/kafka-consumer-commit/kafka-consumer-commit.iml" filepath="$PROJECT_DIR$/kafka-consumer-commit/kafka-consumer-commit.iml" />
       <module fileurl="file://$PROJECT_DIR$/tuto-de-kafka-real/kafka-consumer-database/kafka-consumer-database.iml" filepath="$PROJECT_DIR$/tuto-de-kafka-real/kafka-consumer-database/kafka-consumer-database.iml" />
       <module fileurl="file://$PROJECT_DIR$/tuto-de-kafka-real/kafka-producer-wikimedia/kafka-producer-wikimedia.iml" filepath="$PROJECT_DIR$/tuto-de-kafka-real/kafka-producer-wikimedia/kafka-producer-wikimedia.iml" />
       <module fileurl="file://$PROJECT_DIR$/kafka-receiver/kafka-receiver.iml" filepath="$PROJECT_DIR$/kafka-receiver/kafka-receiver.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kafka-repo.iml" filepath="$PROJECT_DIR$/.idea/kafka-repo.iml" />
       <module fileurl="file://$PROJECT_DIR$/kafka-sender/kafka-sender.iml" filepath="$PROJECT_DIR$/kafka-sender/kafka-sender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-stream-consumer/kafka-stream-consumer.iml" filepath="$PROJECT_DIR$/kafka-stream-consumer/kafka-stream-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-stream-producer/kafka-stream-producer.iml" filepath="$PROJECT_DIR$/kafka-stream-producer/kafka-stream-producer.iml" />
       <module fileurl="file://$PROJECT_DIR$/product-service/product-service.iml" filepath="$PROJECT_DIR$/product-service/product-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/tourntravell/tourntravell.iml" filepath="$PROJECT_DIR$/tourntravell/tourntravell.iml" />
       <module fileurl="file://$PROJECT_DIR$/tuto-de-elk/tuto-de-elk.iml" filepath="$PROJECT_DIR$/tuto-de-elk/tuto-de-elk.iml" />

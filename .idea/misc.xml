@@ -9,6 +9,9 @@
         <option value="$PROJECT_DIR$/tuto-de-kafka-real/pom.xml" />
         <option value="$PROJECT_DIR$/kafka-sender/pom.xml" />
         <option value="$PROJECT_DIR$/kafka-receiver/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-consumer-commit/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-stream-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-stream-producer/pom.xml" />
       </list>
     </option>
   </component>

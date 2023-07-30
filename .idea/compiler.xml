@@ -9,18 +9,24 @@
         <outputRelativeToContentRoot value="true" />
         <module name="tuto-de-elk" />
         <module name="tourntravell" />
+        <module name="kafka-consumer-commit" />
         <module name="kafka-sender" />
         <module name="kafka-consumer-database" />
+        <module name="kafka-stream-producer" />
+        <module name="kafka-stream-consumer" />
         <module name="kafka-receiver" />
         <module name="product-service" />
         <module name="kafka-producer-wikimedia" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="kafka-consumer-commit" target="11" />
       <module name="kafka-consumer-database" target="11" />
       <module name="kafka-producer-wikimedia" target="11" />
       <module name="kafka-receiver" target="11" />
       <module name="kafka-sender" target="11" />
+      <module name="kafka-stream-consumer" target="11" />
+      <module name="kafka-stream-producer" target="11" />
       <module name="product-service" target="11" />
       <module name="tourntravell" target="11" />
       <module name="tuto-de-elk" target="11" />
@@ -29,10 +35,13 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="kafka-consumer-commit" options="-parameters" />
       <module name="kafka-consumer-database" options="-parameters" />
       <module name="kafka-producer-wikimedia" options="-parameters" />
       <module name="kafka-receiver" options="-parameters" />
       <module name="kafka-sender" options="-parameters" />
+      <module name="kafka-stream-consumer" options="-parameters" />
+      <module name="kafka-stream-producer" options="-parameters" />
       <module name="product-service" options="-parameters" />
       <module name="tourntravell" options="-parameters" />
       <module name="tuto-de-elk" options="-parameters" />
